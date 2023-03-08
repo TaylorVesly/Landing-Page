@@ -122,7 +122,7 @@ button {
 
 .quote {
   background-color: #e5e7eb;
-  padding: 100px;
+  padding: 60px;
 }
 
 .quote h2 {
@@ -141,4 +141,39 @@ button {
 
 /* CTA Banner */
 
+.cta-banner {
+  margin: 100px;
+  border: none;
+  background-color: #3882f6;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #f9faf8;
+  border-radius: 15px;
+}
+
+.cta-banner button {
+  width: 110px;
+  padding: 8px 0px;
+  border: 2px #fff solid;
+  border-radius: 5px;
+  background-color: #3882f6;
+  color: #fff;
+  font-weight: bold;
+}
+
+.cta-banner h2 {
+  margin-bottom: 10px;
+}
+
 /* Footer */
+
+.footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 25px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
