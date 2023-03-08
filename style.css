@@ -88,4 +88,33 @@ button {
   height: 250px;
 }
 
-/* Section 2 */
+/* Content */
+
+.content h2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  margin: 30px 0px 40px 0px;
+  text-align: center;
+}
+
+.content-images {
+  display: flex;
+  gap: 75px;
+  justify-content: center;
+  align-items: center;
+}
+
+.content img {
+  width: 200px;
+  height: 200px;
+}
+
+.content p {
+  width: 200px;
+}
+/* Quote */
+
+/* CTA Banner */
+
+/* Footer */
